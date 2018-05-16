@@ -1,0 +1,12 @@
+a{color:blue}
+p{font-weight:bold}
+h1{height:78px;width:1800px;margin-top:1px;
+    padding-top:30px;padding-left:30px;
+    background-color:gray;color:white}
+h2{background-color:green;height:100px;
+width:150px;padding-top:55px;padding-left:50px}
+.a,.b,.c,.d,.g{float:left;margin-left:220px;margin-top:-170px}
+.c2,.c3,.g2,.g3{float:left;margin-left:70px;margin-top:-40px}
+.d2{float:left;margin-left:35px;margin-top:-40px}
+.d3{float:left;margin-left:50px;margin-top:-40px}
+h4{margin-top:-4px}
